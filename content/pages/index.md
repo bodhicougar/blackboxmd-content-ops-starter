@@ -750,7 +750,6 @@ seo:
   metaDescription: AI / KI für ein erfolgreiches Durchstarten
   socialImage: /images/BBMD Banner.jpg
   addTitleSuffix: true
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 type: PageLayout
 ---
