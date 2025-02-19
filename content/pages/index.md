@@ -735,7 +735,7 @@ sections:
         label: Send
         showIcon: false
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: primary
         elementId: null
     badge:
