@@ -749,5 +749,6 @@ seo:
   metaTitle: BlackBoxMediaDesign
   metaDescription: AI / KI für ein erfolgreiches Durchstarten
   socialImage: /images/BBMD Banner.jpg
+  addTitleSuffix: true
 type: PageLayout
 ---
