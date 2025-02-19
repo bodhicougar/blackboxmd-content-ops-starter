@@ -9,7 +9,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "banner"
     },
     "primaryLinks": [
         {
