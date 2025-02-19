@@ -745,5 +745,6 @@ sections:
     type: GenericSection
 seo:
   type: Seo
+  metaTitle: BlackBoxMediaDesign
 type: PageLayout
 ---
