@@ -746,5 +746,6 @@ sections:
 seo:
   type: Seo
   metaTitle: BlackBoxMediaDesign
+  metaDescription: AI / KI für ein erfolgreiches Durchstarten
 type: PageLayout
 ---
