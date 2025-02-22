@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: >-
+        10 Wege, wie KI Unternehmen in Zukunft unterstützen und beeinflussen
+        wird.
       color: text-dark
       type: TitleBlock
     subtitle: Prompts richtig eingesetzt
