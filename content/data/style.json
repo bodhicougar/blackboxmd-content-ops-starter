@@ -8,7 +8,7 @@
     "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
-        "weight": "bold",
+        "weight": "medium",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "tight",
