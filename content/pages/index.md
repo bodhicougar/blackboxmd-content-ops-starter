@@ -8,7 +8,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Prompts richtig eingesetzt
-    text: "10 Wege, wie\_KI Unternehmen\_in Zukunft\_unterstützen\_und beeinflussen wird\n\n1.  KI-gestützte Automatisierung.\n\n2.  Tiefgreifende Wettbewerbsanalyse.\n\n3.  Verbesserter Kundenservice.\n\n4.  Verbesserung der Customer Experience.\n\n5.  Bessere und neue Verkaufsmöglichkeiten.\n\n6.  Next-Level Content Marketing Strategien.\n\n7.  Schnellere Geschäftsentscheidungen.\n\n"
+    text: |+
+      1.  KI-gestützte Automatisierung.
+
+      2.  Tiefgreifende Wettbewerbsanalyse.
+
+      3.  Verbesserter Kundenservice.
+
+      4.  Verbesserung der Customer Experience.
+
+      5.  Bessere und neue Verkaufsmöglichkeiten.
+
+      6.  Next-Level Content Marketing Strategien.
+
+      7.  Schnellere Geschäftsentscheidungen.
+
     actions:
       - label: Get started
         altText: ''
