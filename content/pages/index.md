@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Prompts richtig eingesetzt
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "10 Wege, wie\_KI Unternehmen\_in Zukunft\_unterstützen\_und beeinflussen wird\n\n1.  KI-gestützte Automatisierung.\n\n2.  Tiefgreifende Wettbewerbsanalyse.\n\n3.  Verbesserter Kundenservice.\n\n4.  Verbesserung der Customer Experience.\n\n5.  Bessere und neue Verkaufsmöglichkeiten.\n\n6.  Next-Level Content Marketing Strategien.\n\n7.  Schnellere Geschäftsentscheidungen.\n\n"
     actions:
       - label: Get started
         altText: ''
