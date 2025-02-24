@@ -58,7 +58,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Web site development"
                 },
                 {
                     "label": "Dropdown item",
