@@ -49,7 +49,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Artificial intelligence"
                 },
                 {
                     "label": "Dropdown item",
