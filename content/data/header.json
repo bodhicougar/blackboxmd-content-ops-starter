@@ -41,7 +41,7 @@
         },
         {
             "label": "More",
-            "altText": "Dropdown",
+            "altText": "More",
             "links": [
                 {
                     "label": "Dropdown item",
