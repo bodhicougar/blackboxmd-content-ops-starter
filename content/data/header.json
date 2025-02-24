@@ -31,7 +31,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Projects",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
